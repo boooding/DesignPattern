@@ -1,8 +1,6 @@
 package design.pattern.creational.prototype.ex1;
 
-/**
- * Created by geely
- */
+
 public class Mail implements Cloneable{
     private String name;
     private String emailAddress;

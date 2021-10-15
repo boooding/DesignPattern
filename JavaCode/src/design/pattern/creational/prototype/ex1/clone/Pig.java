@@ -2,9 +2,6 @@ package design.pattern.creational.prototype.ex1.clone;
 
 import java.util.Date;
 
-/**
- * Created by geely
- */
 public class Pig implements Cloneable{
     private String name;
     private Date birthday;

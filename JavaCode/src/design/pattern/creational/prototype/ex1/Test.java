@@ -1,8 +1,6 @@
 package design.pattern.creational.prototype.ex1;
 
-/**
- * Created by geely
- */
+
 public class Test {
     public static void main(String[] args) throws CloneNotSupportedException {
         Mail mail = new Mail();

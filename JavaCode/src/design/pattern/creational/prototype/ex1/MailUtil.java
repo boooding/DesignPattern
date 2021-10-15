@@ -2,9 +2,7 @@ package design.pattern.creational.prototype.ex1;
 
 import java.text.MessageFormat;
 
-/**
- * Created by geely
- */
+
 public class MailUtil {
     public static void sendMail(Mail mail){
         String outputContent = "向{0}同学,邮件地址:{1},邮件内容:{2}发送邮件成功";

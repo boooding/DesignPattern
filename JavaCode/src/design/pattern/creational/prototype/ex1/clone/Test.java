@@ -3,9 +3,6 @@ package design.pattern.creational.prototype.ex1.clone;
 import java.lang.reflect.InvocationTargetException;
 import java.util.Date;
 
-/**
- * Created by geely
- */
 public class Test {
     public static void main(String[] args) throws CloneNotSupportedException, NoSuchMethodException, InvocationTargetException, IllegalAccessException {
         Date birthday = new Date(0L);
