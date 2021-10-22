@@ -1,5 +1,5 @@
-package cs264.ex3.no1;
+package cs264.ex4.no1;
 
-public interface datagram {
+public interface Datagram {
     void send();
 }
