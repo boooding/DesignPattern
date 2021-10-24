@@ -16,8 +16,7 @@ class ConcreteSubject extends Subject
 }
 
 /**
- * @author sarcarv
- * Proxy Class:It will try to invoke the doSomeWork() 
+ * Proxy Class:It will try to invoke the doSomeWork()
  * of a ConcreteSubject instance *
  */
 class Proxy extends  Subject
